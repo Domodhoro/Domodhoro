@@ -19,6 +19,7 @@ Meus interesses no momento são:
 ### :point_right: Minhas linguagens favoritas são:
 
 <div>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "50" width = "50">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = "50" width = "50">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height = "50" width = "50">
 </div>
