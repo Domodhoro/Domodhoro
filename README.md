@@ -20,12 +20,18 @@ Bem vindo ao meu GitHub! Aqui exponho os principais resultados da minha aventura
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domodhoro&layout=compact&langs_count=8" height="150" />
 </div>
 
-## Minhas tecnologias favoritas são:
+## Meus interesses no momento são:
 
 <div>
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                 height = "50" width = "50">
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = "50" width = "50">
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg"       height = "50" width = "50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" height = "75"/>
+</div>          
+
+## Minhas linguagens favoritas no momento são:
+
+<div>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                 height = "75"/>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = "75"/>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg"       height = "75"/>
 </div>
   
 <img width = 100% text = "Domodhoro" src = "https://capsule-render.vercel.app/api?type=waving&color=00FF55&height=120&section=footer">
